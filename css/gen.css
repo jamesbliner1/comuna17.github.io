@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100vw;
+    background-image: url('https://fotografias.larazon.es/clipping/cmsimages02/2021/01/26/3D1C494C-DED3-4460-8CFA-1D2278D69268/95.jpg?crop=1240,697,x0,y116&width=1028&height=578&optimize=medium&format=webply');
+    background-size: cover;
+    background-position: center; 
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}

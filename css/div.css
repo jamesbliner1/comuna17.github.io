@@ -1,0 +1,26 @@
+.contenedor_principal{
+    position: relative;
+    width: 60vw;
+    height: 100vh;
+    margin: auto;
+    background-color: rgb(206, 206, 206, 0.1);
+    backdrop-filter: blur(15px); 
+}
+.contenedor_titulo{
+    position: relative;
+    width: 50vw;
+    height: 20vh;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.contenedor_mapa{
+    position: relative;
+    width: 50vw;
+    height: 77.5vh;
+    border-radius: 2vh;
+    margin: 0 auto;
+}
+
